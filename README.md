@@ -37,7 +37,5 @@ java -jar build/libs/filename.jar
 The above command will execute your code
 
 # Documentation for reference - https://docs.gradle.org/current/userguide/command_line_interface.html
-## Homework
 
-- Try to build a jar and run it directly from cli and see if the okhttp code is working or not just like it is working by running directly from intellij
-- instead of okhttp try to integrate retrofit library to make the same http call
+- instead of okhttp we can  integrate retrofit library to make the same http call.
